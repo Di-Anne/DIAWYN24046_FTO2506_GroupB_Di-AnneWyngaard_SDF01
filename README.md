@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# From Zero to Hero 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Di-Anne
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
