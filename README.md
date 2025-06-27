@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Di-Anne
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer excited to learn and build.
 
 ---
 
